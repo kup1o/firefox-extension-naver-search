@@ -9,7 +9,7 @@
   "chrome_settings_overrides": {
     "search_provider": {
       "name": "Naver",
-      "keyword": "@naver",
+      "keyword": "@n",
       "favicon_url": "https://www.naver.com/favicon.ico",
       "search_url": "https://search.naver.com/search.naver?query={searchTerms}"
     }
