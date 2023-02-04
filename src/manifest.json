@@ -10,7 +10,7 @@
     "search_provider": {
       "name": "Naver",
       "keyword": "@n",
-      "favicon_url": "https://www.naver.com/favicon.ico",
+      "favicon_url": "icons/icon.png",
       "search_url": "https://search.naver.com/search.naver?query={searchTerms}"
     }
   }
